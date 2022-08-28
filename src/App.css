@@ -1,0 +1,13 @@
+.App {
+  max-width: 80%;
+  margin: auto;
+  display: flex;
+  align-items: center;
+  height: 100vh;
+}
+h2{
+  text-align: center;
+  width: 100%;
+  color: #fff;
+  font-family: 'Poppins';
+}
